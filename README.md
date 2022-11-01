@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flexits and my real name is Alexander Korostelin.
 - 👀 I’m an electronics serviceman and I'm interested in IT (information technology).
-- 🌱 Currently I study software development in university and I wand to develop my skills in embedded development particularly.
+- 🌱 Currently I study software development at university and I wand to develop my skills in embedded development particularly.
 - 📫 How to reach me: VK https://vk.com/a_korostelin/ LinkedIn https://www.linkedin.com/in/akorostelin/
 
 <!---

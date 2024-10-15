@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @flexits and my real name is Alexander Korostelin.
-- 👀 I’m an electronics serviceman and I'm interested in computers and programming.
-- 🌱 Currently I study software development at university and I wand to develop my skills in embedded development particularly.
-- 📫 How to reach me: VK https://vk.com/a_korostelin/ LinkedIn https://www.linkedin.com/in/akorostelin/
+👋 Hi, I’m @flexits, my real name is Alexander Korostelin.  
+I’m a skilled electronics serviceman and the author of several articles on various equipment construction and repair, published in [Ремонт и сервис](http://www.remserv.ru/), [Хакер](https://xakep.ru/2024/04/11/liposonix-hack/), and other magazines.
+Also, I'm the author of a book covering general operation principles and troubleshooting of SMPS: [Импульсные источники питания. Элементная база, архитектура и ремонт](https://solon-press.ru/impulsnye-istochniki-pitaniya-elementnaya-baza-arhitektura-i-remont).  
+My interests include computers, software development, and cybersecurity. I've graduated in software development and am building up skills in embedded, particularly.  
+📫 How to reach me: VK https://vk.com/a_korostelin/ LinkedIn https://www.linkedin.com/in/akorostelin/
 
 <!---
 flexits/flexits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
